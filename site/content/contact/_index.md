@@ -1,14 +1,20 @@
 ---
 title: "Contact"
 contact_entries:
-  - heading: Location
+  - heading: Location & Hours
     text: |
-      3250 Blazer Parkway  
-      Lexington, KY 40509
+      3910 South Laurel Road  
+      London, KY 40744
+      8:00 am to 4:30 pm, Monday - Friday
+  - heading: Address
+    text: |
+      PO Box 2598    
+      London, KY 40743
   - heading: Phone, Fax & Email
     text: |
-      (859) 264-7500 - Office  
-      (859) 264-7501 - Fax  
-      info@cdpengineers.com
+      (606) 878-2494 - Office  
+      (606) 878-2406 - After Hours  
+      (606) 878-2448 - Fax
+      info.laurel@laurelwater.com
 ---
 
