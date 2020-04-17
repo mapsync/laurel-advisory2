@@ -5,7 +5,10 @@ title = "Laurel Water District #2"
 
 [params]
     Id = "laurelwater"
-    Facebook = "https://www.facebook.com/cdpky"
+    Color = "#c33b1f"
+    AppTitle = "LWD Advisory"
+    Description = "Alerts and interactive map to serve the customers of Laurel Water District #2"
+    Facebook = ""
     BillPay = "https://bills.utilitydistrict.com/bills/default.aspx?id=8347"
 
 [blackfriday]
