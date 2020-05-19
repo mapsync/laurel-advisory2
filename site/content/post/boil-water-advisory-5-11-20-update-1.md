@@ -1,5 +1,5 @@
 ---
-title: Boil water advisory 5-11-20 UPDATE
+title: Boil water advisory 5-18-20 UPDATE
 draft: false
 date: 2020-05-19T13:00:41.399Z
 description: "The boil water advisory that had been issued for the following
