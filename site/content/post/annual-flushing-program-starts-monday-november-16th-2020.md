@@ -8,4 +8,4 @@ Laurel County Water District #2  will be conducting its flushing program.  Flush
 
 During this time, customers may notice episodes of decreased water pressure or discoloration of their water. Water discoloration results from temporary disturbances of the normal water flow within our distribution system. \
 \
-If you experience discolored water, you are encouraged to run cold water through a faucet (bathtubs being the best choice) for 5-10 minutes or until the water clears up. Do not use hot water or run your washing machine as the dirty water can discolor clothing and enter your hot water heater and could possibly damage it.
+If you experience discolored water, you are encouraged to run cold water through a faucet (bathtubs being the best choice) for 5-10 minutes or until the water clears up.
