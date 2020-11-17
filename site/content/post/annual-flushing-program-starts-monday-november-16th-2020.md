@@ -2,10 +2,7 @@
 title: " Annual flushing program starts Monday, November 16th, 2020"
 draft: false
 date: 2020-11-17T12:35:58.155Z
-description: >
-  Laurel County Water District #2  will be conducting its flushing
-  program.  Flushing will occur between 7:30 am – 4:00 pm Monday through Friday.
-  The start date is Monday, November 16th, 2020 through the end of the year.
+description: " "
 ---
 Laurel County Water District #2  will be conducting its flushing program.  Flushing will occur between**7:30 am – 4:00 pm Monday through Friday.**The start date is **Monday, November 16th, 2020 through the end of the year.**
 
