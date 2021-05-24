@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: DELINQUENT ACCOUNTS / DISCONNECT NOTICE
-draft: true
+draft: false
 date: 2021-05-24T13:38:45.526Z
 description: "DELINQUENT ACCOUNTS MUST BE PAID BY TUESDAY, MAY 25. "
 ---
