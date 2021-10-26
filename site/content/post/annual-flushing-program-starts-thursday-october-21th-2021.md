@@ -7,7 +7,7 @@ description: "Laurel County Water District #2  will be conducting its flushing
   Friday.**The start date is **Thursday, October 21th, 2021 through the end of
   the year."
 ---
-Laurel County Water District #2  will be conducting its flushing program.  Flushing will occur between**7:30 am – 4:00 pm Monday through Friday.**The start date is **Thursday, October 21th, 2020 through the end of the year.**
+Laurel County Water District #2  will be conducting its flushing program.  Flushing will occur between**7:30 am – 4:00 pm Monday through Friday.**The start date is **Thursday, October 21th, 2021 through the end of the year.**
 
 During this time, customers may notice episodes of decreased water pressure or discoloration of their water. Water discoloration results from temporary disturbances of the normal water flow within our distribution system. \
 \
