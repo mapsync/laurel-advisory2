@@ -1,5 +1,5 @@
 ---
-title: Boil Water Advisory 11-1-22 UDPATE
+title: Boil Water Advisory 11-1-22 Update
 draft: false
 date: 2022-11-03T15:44:38.625Z
 description: The boil water advisory that had been issued for the following area
