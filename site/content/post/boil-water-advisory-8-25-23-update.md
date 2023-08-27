@@ -1,0 +1,11 @@
+---
+title: Boil Water Advisory 8-25-23 UPDATE
+draft: false
+date: 2023-08-27T15:24:02.342Z
+description: The boil water advisory that had been issued for the following area
+  due to a line break has been lifted as of 8-27-23 at 11:11am. 1115 S. Laurel
+  Rd to 1334 S. laurel Rd to include Sandy Ln.
+---
+
+
+The boil water advisory that had been issued for the following area due to a line break has been lifted as of 8-27-23 at 11:11am. 1115 S. Laurel Rd to 1334 S. laurel Rd to include Sandy Ln.
