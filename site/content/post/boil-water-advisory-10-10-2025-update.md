@@ -1,0 +1,9 @@
+---
+title: Boil Water Advisory 10-10-2025 Update
+draft: false
+date: 2025-10-11T18:17:16.106Z
+description: The boil water advisory that had been issued for the following area
+  has been lifted as of 10-11-2025 at 2:02 pm From 4808 S. Laurel Rd to 2970 S.
+  Laurel rd. to include all side Rd.
+---
+The boil water advisory that had been issued for the following area has been lifted as of 10-11-2025 at 2:02 pm From 4808 S. Laurel Rd to 2970 S. Laurel rd. to include all side Rd.
