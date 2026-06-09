@@ -4,10 +4,8 @@ draft: false
 date: 2026-06-09T15:28:03.135Z
 description: A boil water advisory has been issued for the following area. From
   the intersection of Fariston Rd and Frantz Rd to 2953 Fariston Rd and from the
-  intersection of Fariston Rd and Frantz Rd to 312 Frantz Rd. Bring water to a
-  rolling boil before consuming. Questions regarding this advisory call our
-  office at 606-8789-2494.
+  intersection of Fariston Rd and Frantz Rd to 312 Frantz Rd to include 4808 S.
+  Laurel Rd to 4422 S. Laurel rd. Bring water to a rolling boil before
+  consuming. Questions regarding this advisory call our office at 606-8789-2494.
 ---
-
-
-A boil water advisory has been issued for the following area. From the intersection of Fariston Rd and Frantz Rd to 2953 Fariston Rd and from the intersection of Fariston Rd and Frantz Rd to 312 Frantz Rd. Bring water to a rolling boil before consuming. Questions regarding this advisory call our office at 606-8789-2494.
+A boil water advisory has been issued for the following area. From the intersection of Fariston Rd and Frantz Rd to 2953 Fariston Rd and from the intersection of Fariston Rd and Frantz Rd to 312 Frantz Rd to include 4808 S. Laurel Rd to 4422 S. Laurel rd. Bring water to a rolling boil before consuming. Questions regarding this advisory call our office at 606-8789-2494.
